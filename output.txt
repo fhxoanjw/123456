@@ -1,5 +1,5 @@
-8.217.123.243#Hong Kong
-8.222.181.117#Singapore
-47.242.79.71#Hong Kong
-47.245.114.163#Singapore
-8.219.163.195#Singapore
+8.210.126.88#Hong Kong
+47.243.169.90#Hong Kong
+47.243.86.79#Hong Kong
+47.243.198.198#Hong Kong
+140.238.12.52#South Korea
